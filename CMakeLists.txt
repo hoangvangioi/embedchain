@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(blockchain VERSION 1.0 LANGUAGES C CXX)
+project(embedchain VERSION 1.0 LANGUAGES C CXX)
 
 # Output system and project details
 message(STATUS "[${PROJECT_NAME}] CMake version ${CMAKE_VERSION}")
