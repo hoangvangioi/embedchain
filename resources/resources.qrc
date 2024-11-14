@@ -1,0 +1,41 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>settings.ini</file>
+        <file>themes.ini</file>
+
+        <file>fonts/Roboto-Thin.ttf</file>
+        <file>fonts/Roboto-ThinItalic.ttf</file>
+        <file>fonts/Roboto-BlackItalic.ttf</file>
+        <file>fonts/Roboto-Light.ttf</file>
+        <file>fonts/Roboto-LightItalic.ttf</file>
+        <file>fonts/Roboto-Regular.ttf</file>
+        <file>fonts/Roboto-Italic.ttf</file>
+        <file>fonts/Roboto-Medium.ttf</file>
+        <file>fonts/Roboto-MediumItalic.ttf</file>
+        <file>fonts/Roboto-Bold.ttf</file>
+        <file>fonts/Roboto-BoldItalic.ttf</file>
+        <file>fonts/Roboto-Black.ttf</file>
+
+        <file>icons/sun.svg</file>
+        <file>icons/moon.svg</file>
+        <file>icons/table.svg</file>
+        <file>icons/chart.svg</file>
+        <file>icons/menu.svg</file>
+        <file>icons/arow.svg</file>
+        <file>icons/home.svg</file>
+        <file>icons/info.svg</file>
+        <file>icons/map.svg</file>
+        <file>icons/settings.svg</file>
+
+        <file>icons/active_menu.svg</file>
+        <file>icons/add_user.svg</file>
+
+        <file>svg/location.svg</file>
+        <file>svg/sunny.svg</file>
+        <file>svg/humidity.svg</file>
+        <file>svg/pressure.svg</file>
+        <file>svg/globe-asia.svg</file>
+    </qresource>
+</RCC>

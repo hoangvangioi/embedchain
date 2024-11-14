@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package sensor;
+
+message SensorData {
+    uint64 timestamp = 1; // Thời gian tính bằng mili giây từ Unix epoch
+    bytes data = 2;      // Dữ liệu cảm biến được mã hóa thành chuỗi
+}
+
+message SensorNetwork {
+    repeated SensorData sensors = 1; // Danh sách cảm biến
+}
